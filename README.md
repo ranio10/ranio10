@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm Hyeran Park 👋
+
+## About Me
+
+- 🧑‍💻 **Programming Languages**: C, Python, C++, Java, Unity
+
+## Contact Me
+
+- 📧 **Email**: [hyeran1036@naver.com](mailto:hyera@example.com)
 
 <!--
 **ranio10/ranio10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
